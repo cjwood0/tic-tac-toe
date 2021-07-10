@@ -1,3 +1,16 @@
+# Things I would have liked to have done
+
+* Did a better job the first time
+* svg cursors denoting turn
+* fading error message when trying to click a filled square (or just disabled hover)
+* Fancy alert win/draw modal
+* Score keeping
+* Computer opponent
+* better flex control for cell size in media queries
+* Break win logic into a util
+* Consider representing the board as a 9 length array of 1's and 0's to calculate winners
+* Removed all inline styling
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
