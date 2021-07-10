@@ -6,10 +6,11 @@
 * Fancy alert win/draw modal
 * Score keeping
 * Computer opponent
-* better flex control for cell size in media queries
+* Better flex control for cell size in media queries
 * Break win logic into a util
 * Consider representing the board as a 9 length array of 1's and 0's to calculate winners
 * Removed all inline styling
+* Fix useEffect dependency warning or refactor to remove the need for it, clearing and rendering after dismissing a win/draw modal
 
 # Getting Started with Create React App
 
